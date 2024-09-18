@@ -13,3 +13,5 @@ Create a line plot and a scatter plot.
 Calculate correlation and regression.
 
 Submit your final analysis.
+
+I would like to mention that I had the help of a totur and xpert learning assitant.
